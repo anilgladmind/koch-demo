@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
 
 ## Demo
-Demo: [Click Here](https://github.com/angular/angular-cli)
+Demo: [Click Here](https://koch.anilkapala.com)
   
 
 ## Development server
