@@ -19,7 +19,7 @@
       </div>
     </li>
   </ul>
-  <div class="mb-3 text-center">
+  <div class="mb-3 text-center" *ngIf="!products.length">
     <h2>No Products found.</h2>
     <div class="text-muted">please try other products</div>
   </div>
