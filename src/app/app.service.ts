@@ -16,7 +16,7 @@ export class AppService {
         {
             "name": "Toy Car",
             "price": 250,
-            "image": "http://images.ctfassets.net/bkp1t915hkvx/wtrHxeu3zEoEce2MokCSi/63f9fe1bbc51ea842c133d6e08621776/quwowooybuqbl6ntboz3.jpg",
+            "image": "https://images.ctfassets.net/bkp1t915hkvx/wtrHxeu3zEoEce2MokCSi/63f9fe1bbc51ea842c133d6e08621776/quwowooybuqbl6ntboz3.jpg",
             "available": 10
         },
 
