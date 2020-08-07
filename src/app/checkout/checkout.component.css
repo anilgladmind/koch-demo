@@ -1,0 +1,16 @@
+.cart-card{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+
+.cart-card .card-wrap{
+    padding: 15px;
+    position: relative;
+    background: #fff;
+    max-width: 950px;
+    border: 1px solid #eee;
+}
+

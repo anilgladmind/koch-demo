@@ -1,0 +1,9 @@
+<div class="price-range">
+  <div class="text-center">Price Range</div>
+
+  <ng5-slider [(value)]="minValue" [(highValue)]="maxValue" [options]="options" (userChange)="valueChangeSet($event)"></ng5-slider>
+
+  <div class="text-center">
+    <button (click)="applyButton()" class="btn btn-sm btn-warning">Apply</button>
+  </div>
+</div>

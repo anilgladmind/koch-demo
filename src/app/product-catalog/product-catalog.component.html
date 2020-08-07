@@ -1,0 +1,26 @@
+<div class="product-list">
+  <ul class="product-grid" *ngIf="products.length">
+    <li *ngFor="let product of products">
+      <div class="product-card">
+        <img class="product-card-image" src="{{product.image}}" />
+        <div class="product-card-header">
+          <div class="product-card-header-text">
+            <span>{{product.name}}</span>
+          </div>
+          <div class="product-card-header-price">
+            <span><strong>${{product.price}}</strong></span>
+          </div>
+        </div>
+        <div class="product-card-header">
+          <div class="action-buttons">
+            <button class="btn btn-sm btn-primary" (click)="addCart(product)">Add Cart</button>
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <div class="mb-3 text-center">
+    <h2>No Products found.</h2>
+    <div class="text-muted">please try other products</div>
+  </div>
+</div>

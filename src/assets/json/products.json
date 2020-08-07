@@ -1,0 +1,73 @@
+{
+    "products": [
+        {
+            "name": "Toy Car",
+            "price": 250,
+            "image": "http://images.ctfassets.net/bkp1t915hkvx/wtrHxeu3zEoEce2MokCSi/63f9fe1bbc51ea842c133d6e08621776/quwowooybuqbl6ntboz3.jpg",
+            "available": 10
+        },
+
+        {
+            "name": "Seal-A-Gap",
+            "price": 489,
+            "image": "https://lh4.googleusercontent.com/proxy/IREebumBABiyxwBNKsuoeNAuETJdpLsd8NWw-ef7V00chzxTPHc0v72i4TdVjxTpbGYLEAM_7jy3BxLPC0az7Ag7sZIjWilq15Sf5gnD2kbXoQ2ZHjCk_ARCWjdwHIy2E_6_IbfOgDFl2JW1",
+            "available": 11
+        },
+
+        {
+            "name": "Mr.Magic Handwash kit",
+            "price": 679,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMQ-CUdeyP589DaClEgc54NEzmZ2BIc4saY9vTIbv_Gux2IU&s",
+            "available": 2
+        },
+
+        {
+            "name": "EA Diamonds",
+            "price": 7679,
+            "image": "https://www.luxuryperfumes.in/wp-content/uploads/2018/06/Emporio20Armani20Diamonds20Black20Carat20Perfume-W-600x446.jpg",
+            "available": 5
+        },
+
+        {
+            "name": "Marine",
+            "price": 4679,
+            "image": "https://aoratosnature.com/wp-content/uploads/2020/01/Collagen1-600x446.jpg",
+            "available": 3
+        },
+
+        {
+            "name": "Toffee",
+            "price": 56,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmwb_6H6MU5bI7H9tRKpgjrwPmQrDuSdT_7NfieKbZydxj6zvs&s",
+            "available": 10
+        },
+
+        {
+            "name": "Ostarine",
+            "price": 568,
+            "image": "https://www.europharmma.com/wp-content/uploads/2019/08/ostarine-600x446.jpg",
+            "available": 100
+        },
+
+        {
+            "name": "Hi-Focus Camera",
+            "price": 5689,
+            "image": "https://hifocuscctv.com/wp-content/uploads/2017/07/Untitlednew2-600x446.png",
+            "available": 45
+        },
+
+        {
+            "name": "Enrico",
+            "price": 9999,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XPMiyngyfWeTMG4jTXneUBbg2-WSxxVR33sZxhaaxNW7Nr0k&s",
+            "available": 78
+        },
+
+        {
+            "name": "LV Pont",
+            "price": 1999,
+            "image": "https://www.sandrascloset.com/wp-content/uploads/2020/05/LV_PONT_9_5-600x446.jpg",
+            "available": 7
+        }
+    ]
+}
